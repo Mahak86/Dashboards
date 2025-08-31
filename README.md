@@ -1,8 +1,9 @@
 # Dashboards
 Dashboards created on Looker Studio
+Looker Studio is a free web-based business intelligence tool that allows us to create customizable, interactive data visualizations, reports, and dashboards, and can build reports using a drag-and-drop interface to gain insights and share them with others. 
 # PPC Multi-Channel Dashboard 📊
 
-This project is a Google Looker Studio dashboard that visualizes Pay-Per-Click (PPC) advertising performance across multiple platforms — Google Ads, Facebook Ads, and LinkedIn Ads — over a 30-day period.
+This project is a Google Looker Studio dashboard that visualizes Pay-Per-Click (PPC) advertising performance across multiple platforms — Google Ads, Facebook Ads, and LinkedIn Ads — over 30 days.
 
 ## 📈 Dashboard Overview
 
